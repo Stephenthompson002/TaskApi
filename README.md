@@ -241,4 +241,4 @@ http://<EXTERNAL-IP>/docs
 ✅ Dockerized for containerization  
 ✅ Deployed on Kubernetes  
 
-Let me know if you need any modifications! 🚀😊
+🚀😊
